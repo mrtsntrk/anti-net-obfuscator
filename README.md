@@ -1,6 +1,6 @@
 # Anti .NET Obfuscator & Reflector
 **--EN--**
-Hello, I'm Mert. In this file, I aimed to teach how to hide the source code of the program simply. I hope it was useful. Thank you for downloading.
+Hello, I'm Mert. In this file, I aimed to teach how to hide the source code of the program simply. I hope it was useful. Thank you for downloading. <br>
 **--TR--**
 Merhaba, ben Mert. Bu dosyada, programın kaynak kodunun nasıl gizleneceğini öğretmeyi amaçladım. Umarım faydalı olmuştur. İndirdiğiniz için teşekkürler.
 # Screen Shot / Ekran Görüntüsü (.gif)
