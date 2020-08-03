@@ -1,0 +1,10 @@
+C:\Users\Mertinko\source\repos\anti-net-obfuscator\anti-net-obfuscator\bin\Debug\anti-net-obfuscator.exe.config
+C:\Users\Mertinko\source\repos\anti-net-obfuscator\anti-net-obfuscator\bin\Debug\anti-net-obfuscator.exe
+C:\Users\Mertinko\source\repos\anti-net-obfuscator\anti-net-obfuscator\bin\Debug\anti-net-obfuscator.pdb
+C:\Users\Mertinko\source\repos\anti-net-obfuscator\anti-net-obfuscator\obj\Debug\anti-net-obfuscator.csprojAssemblyReference.cache
+C:\Users\Mertinko\source\repos\anti-net-obfuscator\anti-net-obfuscator\obj\Debug\anti_net_obfuscator.Form1.resources
+C:\Users\Mertinko\source\repos\anti-net-obfuscator\anti-net-obfuscator\obj\Debug\anti_net_obfuscator.Properties.Resources.resources
+C:\Users\Mertinko\source\repos\anti-net-obfuscator\anti-net-obfuscator\obj\Debug\anti-net-obfuscator.csproj.GenerateResource.cache
+C:\Users\Mertinko\source\repos\anti-net-obfuscator\anti-net-obfuscator\obj\Debug\anti-net-obfuscator.csproj.CoreCompileInputs.cache
+C:\Users\Mertinko\source\repos\anti-net-obfuscator\anti-net-obfuscator\obj\Debug\anti-net-obfuscator.exe
+C:\Users\Mertinko\source\repos\anti-net-obfuscator\anti-net-obfuscator\obj\Debug\anti-net-obfuscator.pdb
